@@ -31,5 +31,5 @@ if terms.lower() == 'y':
     print("WiFi Name                      > Password")
     process_wifi()
 else:
-    print("Program End")
+    print("END")
     exit()
